@@ -18,5 +18,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gomoimihai/lethicus/issues"
+  },
+  "dependencies": {
+    "logfmt": "~1.0.0-pre3",
+    "express": "~3.4.8"
   }
 }
