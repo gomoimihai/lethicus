@@ -1,0 +1,22 @@
+{
+  "name": "lethicus",
+  "version": "0.0.0",
+  "description": "This is an example app Node.js on Heroku",
+  "main": "web.js",
+  "scripts": {
+    "test": "https://github.com/gomoimihai/lethicus.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gomoimihai/lethicus.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "gomoi-mihai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gomoimihai/lethicus/issues"
+  }
+}
